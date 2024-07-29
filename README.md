@@ -11,9 +11,9 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=jinkogule&style=for-the-badge&color=orange)
 </div>
 
-<h2 align="left">Hi, I'm Lucas Pimenta👋</h2>
+<h1 align="left">Hi, I'm Lucas Pimenta👋</h1>
 
-<img align="right" height="240" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9d0fd0c4-5c7f-4122-b884-64a1e1685d2d"/>
+<img align="right" height="235" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9d0fd0c4-5c7f-4122-b884-64a1e1685d2d"/>
 
 <h3 align="left">About me:</h3>
 
