@@ -11,21 +11,28 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=jinkogule&style=for-the-badge&color=orange)
 </div>
 
-<h1 align="left">Hi, I'm Lucas Pimenta👋</h1>
 
-<img align="right" height="235" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9d0fd0c4-5c7f-4122-b884-64a1e1685d2d"/>
+<h2 align="left">Hi, I'm Lucas Pimenta👋</h2>
 
-<h3 align="left">About me:</h3>
+<table style="width: 100%; border: none;">
+  <tr>
+    <td style="width: 70%; vertical-align: top;">
+      <h3 align="left">About me:</h3>
+      <ul>
+        <li>🎓 Bachelor's Degree in Information Systems</li>
+        <li>📚 Currently pursuing a Master's degree in Computer Science</li>
+        <li>🌐 Professional experience in web development</li>
+        <li>💡 Enhancing front-end skills with Angular/Ionic</li>
+        <li>💻 Programming since 2018</li>
+      </ul>
+    </td>
+    <td style="width: 30%; vertical-align: top;">
+      <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9d0fd0c4-5c7f-4122-b884-64a1e1685d2d" width="240" style="max-width: 100%; border: none;" alt="Lucas Pimenta's GIF"/>
+    </td>
+  </tr>
+</table>
 
-- 🎓 Bachelor's Degree in Information Systems
 
-- 📚 Currently pursuing a Master's degree in Computer Science
-
-- 🌐 Professional experience in web development
-
-- 💡 Enhancing front-end skills with Angular/Ionic
-
-- 💻 Programming since 2018
 
 ---
 
