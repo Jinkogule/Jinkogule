@@ -51,10 +51,9 @@ ss<br><br>asdasdas<br>das<br>das<br>das<br>asd<br>asd<br>das<br>as</p>
 </div>
 
 
-
 <table>
   <tr>
-    <td>
+    <td valign="top">
       <h2>Linguagens de Programação</h2>
       <table>
         <tr>
@@ -78,8 +77,19 @@ ss<br><br>asdasdas<br>das<br>das<br>das<br>asd<br>asd<br>das<br>as</p>
           <td align="center"><img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" alt="typescript logo"/></td>
         </tr>
       </table>
+      <h2>Bancos de Dados</h2>
+      <table>
+        <tr>
+          <th>MySQL</th>
+          <th>PostgreSQL</th>
+        </tr>
+        <tr>
+          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" /></td>
+          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL logo" /></td>
+        </tr>
+      </table>
     </td>
-    <td>
+    <td valign="top">
       <h2>Frameworks (Back-end)</h2>
       <table>
         <tr>
@@ -97,13 +107,6 @@ ss<br><br>asdasdas<br>das<br>das<br>das<br>asd<br>asd<br>das<br>as</p>
           <td align="center"><img src="https://skillicons.dev/icons?i=flask" height="40" alt="Flask logo" /></td>
         </tr>
       </table>
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td>
       <h2>Frameworks (Front-end)</h2>
       <table>
         <tr>
@@ -120,7 +123,12 @@ ss<br><br>asdasdas<br>das<br>das<br>das<br>asd<br>asd<br>das<br>as</p>
         </tr>
       </table>
     </td>
-    <td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td valign="top">
       <h2>Plataformas de Hospedagem</h2>
       <table>
         <tr>
@@ -132,44 +140,6 @@ ss<br><br>asdasdas<br>das<br>das<br>das<br>asd<br>asd<br>das<br>as</p>
           <td align="center"><img src="https://cdn.simpleicons.org/netlify/00C7B7" height="40" alt="Netlify logo" /></td>
         </tr>
       </table>
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td>
-      <h2>Bancos de Dados</h2>
-      <table>
-        <tr>
-          <th>MySQL</th>
-          <th>PostgreSQL</th>
-        </tr>
-        <tr>
-          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" /></td>
-          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL logo" /></td>
-        </tr>
-      </table>
-    </td>
-    <td>
-      <h2>Linguagens Web</h2>
-      <table>
-        <tr>
-          <th>HTML</th>
-          <th>CSS</th>
-        </tr>
-        <tr>
-          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML logo" /></td>
-          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS logo" /></td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td>
       <h2>Ferramentas de Desenvolvimento</h2>
       <table>
         <tr>
@@ -188,7 +158,7 @@ ss<br><br>asdasdas<br>das<br>das<br>das<br>asd<br>asd<br>das<br>as</p>
         </tr>
       </table>
     </td>
-    <td>
+    <td valign="top">
       <h2>Bibliotecas Python</h2>
       <table>
         <tr>
@@ -207,6 +177,7 @@ ss<br><br>asdasdas<br>das<br>das<br>das<br>asd<br>asd<br>das<br>as</p>
     </td>
   </tr>
 </table>
+
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=jinkogule&style=for-the-badge&color=orange)
