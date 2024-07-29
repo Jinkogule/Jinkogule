@@ -5,8 +5,6 @@
 <br>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucaspimenta21@gmail.com)
-[![Gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](mailto:lucaspimenta21@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-pimenta-0663671b1/)
 ![BuyMeACoffe](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)
 ![PicPay](https://img.shields.io/badge/picpay-21C25E?style=for-the-badge&logo=picpay&logoColor=white)<br>
@@ -15,17 +13,17 @@
 
 <h2 align="left">Hi, I'm Lucas Pimenta👋</h2>
 
-<img align="right" height="240" style="border-radius:50%" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9d0fd0c4-5c7f-4122-b884-64a1e1685d2d"/>
+<img align="right" height="240"src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9d0fd0c4-5c7f-4122-b884-64a1e1685d2d"/>
 
 <h3 align="left">About me:</h3>
 
-- 🎓 Bachelor's degree in Information Systems,
+- 🎓 Bachelor's Degree in Information Systems
 
-- 📚 Currently pursuing a Master's in Computer Science
+- 📚 Currently pursuing a Master's degree in Computer Science
 
 - 🌐 Professional experience in web development
 
-- 💡 Currently learning Angular/Ionic to improve my front-end knowledge
+- 💡 Enhancing front-end skills with Angular/Ionic
 
 - 💻 Programming since 2018
 
