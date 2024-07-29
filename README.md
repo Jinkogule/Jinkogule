@@ -20,9 +20,13 @@
       <h3 align="left">About me:</h3>
       <ul>
         <li>🎓 Bachelor's Degree in Information Systems</li>
+        <br>
         <li>📚 Currently pursuing a Master's degree in Computer Science</li>
+        <br>
         <li>🌐 Professional experience in web development</li>
+        <br>
         <li>💡 Enhancing front-end skills with Angular/Ionic</li>
+        <br>
         <li>💻 Programming since 2018</li>
       </ul>
     </td>
@@ -68,78 +72,96 @@
   </tr>
 </table>
 
-### Frameworks (Back-end):
+### Frameworks:
 
 <table>
   <tr>
-    <th>Laravel</th>
-    <th>Django</th>
-    <th>Spring</th>
-    <th>Rails</th>
-    <th>Flask</th>
+    <th align="center">Back-end</th>
+    <th align="center">Front-end</th>
   </tr>
   <tr>
-    <td align="center"><img src="https://cdn.simpleicons.org/laravel/FF2D20" height="40" alt="Laravel logo" /></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=django" height="40" alt="Django logo" /></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/spring/6DB33F" height="40" alt="Spring logo" /></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/rubyonrails/CC0000" height="40" alt="Rails logo" /></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=flask" height="40" alt="Flask logo" /></td>
+    <td>
+      <table>
+        <tr>
+          <th>Laravel</th>
+          <th>Django</th>
+          <th>Spring</th>
+          <th>Rails</th>
+          <th>Flask</th>
+        </tr>
+        <tr>
+          <td align="center"><img src="https://cdn.simpleicons.org/laravel/FF2D20" height="40" alt="Laravel logo" /></td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=django" height="40" alt="Django logo" /></td>
+          <td align="center"><img src="https://cdn.simpleicons.org/spring/6DB33F" height="40" alt="Spring logo" /></td>
+          <td align="center"><img src="https://cdn.simpleicons.org/rubyonrails/CC0000" height="40" alt="Rails logo" /></td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=flask" height="40" alt="Flask logo" /></td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <th>AngularJS</th>
+          <th>Ionic</th>
+          <th>Bootstrap</th>
+          <th>jQuery</th>
+        </tr>
+        <tr>
+          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="AngularJS logo" /></td>
+          <td align="center"><img src="https://cdn.simpleicons.org/ionic/3880FF" height="40" alt="Ionic logo" /></td>
+          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap logo" /></td>
+          <td align="center"><img src="https://cdn.simpleicons.org/jquery/0769AD" height="40" alt="jQuery logo" /></td>
+        </tr>
+      </table>
+    </td>
   </tr>
 </table>
 
-### Frameworks (Front-end):
+### Databases, Web Languages and Hosting Platforms:
 
 <table>
   <tr>
-    <th>AngularJS</th>
-    <th>Ionic</th>
-    <th>Bootstrap</th>
-    <th>jQuery</th>
+    <th align="center">Databases</th>
+    <th align="center">Web Languages</th>
+    <th align="center">Hosting Platforms</th>
   </tr>
   <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="AngularJS logo" /></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/ionic/3880FF" height="40" alt="Ionic logo" /></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap logo" /></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/jquery/0769AD" height="40" alt="jQuery logo" /></td>
-  </tr>
-</table>
-
-### Hosting Platforms:
-
-<table>
-  <tr>
-    <th>Heroku</th>
-    <th>Netlify</th>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://cdn.simpleicons.org/heroku/430098" height="40" alt="Heroku logo" /></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/netlify/00C7B7" height="40" alt="Netlify logo" /></td>
-  </tr>
-</table>
-
-### Databases:
-
-<table>
-  <tr>
-    <th>MySQL</th>
-    <th>PostgreSQL</th>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" /></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL logo" /></td>
-  </tr>
-</table>
-
-### Web Languages:
-
-<table>
-  <tr>
-    <th>HTML</th>
-    <th>CSS</th>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML logo" /></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS logo" /></td>
+    <td>
+      <table>
+        <tr>
+          <th>MySQL</th>
+          <th>PostgreSQL</th>
+        </tr>
+        <tr>
+          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" /></td>
+          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL logo" /></td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <th>HTML</th>
+          <th>CSS</th>
+        </tr>
+        <tr>
+          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML logo" /></td>
+          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS logo" /></td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <th>Heroku</th>
+          <th>Netlify</th>
+        </tr>
+        <tr>
+          <td align="center"><img src="https://cdn.simpleicons.org/heroku/430098" height="40" alt="Heroku logo" /></td>
+          <td align="center"><img src="https://cdn.simpleicons.org/netlify/00C7B7" height="40" alt="Netlify logo" /></td>
+        </tr>
+      </table>
+    </td>
   </tr>
 </table>
 
@@ -178,5 +200,3 @@
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter logo" /></td>
   </tr>
 </table>
-
-<img src="https://raw.githubusercontent.com/Jinkogule/Jinkogule/output/snake.svg" alt="Snake animation"/>
