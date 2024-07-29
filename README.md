@@ -13,33 +13,22 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=jinkogule&style=for-the-badge&color=orange)
 </div>
 
+<div height="900">
 <h2 align="left">About me</h2>
 
-<img align="right" height="200" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9d0fd0c4-5c7f-4122-b884-64a1e1685d2d"/>
-
-###
-
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
-
-###
+<img align="right" height="200" style="border-radius:50%" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9d0fd0c4-5c7f-4122-b884-64a1e1685d2d"/>
 
 
-ss<br><br>asdasdas
+- 🎓 Bachelor's degree in Information Systems
 
+- 🔜 Currently pursuing a Master's in Computer Science
 
+- 🌐 Professional experience in web development
 
+- 📚 Currently learning Angular/Ionic to improve my front-end knowledge
 
-
-
-
-
-
-
-
-
-
-
-
+- 💻 Programming since 2018
+</div>
 <div align="center">
     <a href="https://github.com/Jinkogule">      
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jinkogule&show_icons=true&theme=gotham"/>     
