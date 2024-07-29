@@ -13,34 +13,30 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=jinkogule&style=for-the-badge&color=orange)
 </div>
 
-<div height="900">
-<h2 align="left">About me</h2>
+<h2 align="left">Hi, I'm Lucas Pimenta👋</h2>
 
 <img align="right" height="200" style="border-radius:50%" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9d0fd0c4-5c7f-4122-b884-64a1e1685d2d"/>
 
+<h3 align="left">About me:</h3>
 
-- 🎓 Bachelor's degree in Information Systems
+- 🎓 Bachelor's degree in Information Systems,
 
-- 🔜 Currently pursuing a Master's in Computer Science
+- 📚 Currently pursuing a Master's in Computer Science
 
 - 🌐 Professional experience in web development
 
-- 📚 Currently learning Angular/Ionic to improve my front-end knowledge
+- 💡 Currently learning Angular/Ionic to improve my front-end knowledge
 
 - 💻 Programming since 2018
-</div>
-<div align="center">
+
+<br><br>
+
+<div align="left">
     <a href="https://github.com/Jinkogule">      
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jinkogule&show_icons=true&theme=gotham"/>     
     <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs?username=Jinkogule&layout=compact&langs_count=8&card_width=320&theme=gotham" />
     </a> 
 </div>
-
-
-
-
-###
-
 
 ### Linguagens de Programação
 <table>
@@ -136,7 +132,6 @@
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS logo" /></td>
   </tr>
 </table>
-
 
 ### Ferramentas de Desenvolvimento
 
