@@ -4,13 +4,11 @@
 <img style="" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" width="100%;" alt=""/>
 <br>
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucaspimenta21@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-pimenta-0663671b1/)
-![BuyMeACoffe](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)
-![PicPay](https://img.shields.io/badge/picpay-21C25E?style=for-the-badge&logo=picpay&logoColor=white)<br>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucaspimenta21@gmail.com)
+[![PicPay](https://img.shields.io/badge/picpay-21C25E?style=for-the-badge&logo=picpay&logoColor=white)](https://app.picpay.com/user/lucaspimenta21/)<br>
 ![Profile Views](https://komarev.com/ghpvc/?username=jinkogule&style=for-the-badge&color=orange)
 </div>
-
 
 <h2 align="left">Hi, I'm Lucas Pimenta👋</h2>
 
@@ -36,8 +34,6 @@
   </tr>
 </table>
 
-
-
 ---
 
 <div align="left">
@@ -45,9 +41,9 @@
     <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jinkogule&layout=compact&langs_count=8&card_width=320&theme=gotham" />
 </div>
 
-## Languages and Tools
+<h2 align="left">Languages and Tools⚒️</h2>
 
-### Languages:
+<h3 align="left">Languages:</h3>
 
 <table>
   <tr>
@@ -72,7 +68,7 @@
   </tr>
 </table>
 
-### Frameworks:
+<h3 align="left">Frameworks:</h3>
 
 <table>
   <tr>
@@ -117,7 +113,7 @@
   </tr>
 </table>
 
-### Databases, Web Languages and Hosting Platforms:
+<h3 align="left">Databases, Web Languages and Hosting Platforms:</h3>
 
 <table>
   <tr>
@@ -165,7 +161,7 @@
   </tr>
 </table>
 
-### Development Tools:
+<h3 align="left">Development Tools:</h3>
 
 <table>
   <tr>
@@ -184,7 +180,7 @@
   </tr>
 </table>
 
-### Python Libraries:
+<h3 align="left">Python Libraries:</h3>
 
 <table>
   <tr>
