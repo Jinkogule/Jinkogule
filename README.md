@@ -29,17 +29,11 @@
 
 - 💻 Programming since 2018
 
-<br>
-
 ---
 
-<br>
-
 <div align="left">
-    <a href="https://github.com/Jinkogule">      
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jinkogule&show_icons=true&theme=gotham"/>     
-    <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs?username=Jinkogule&layout=compact&langs_count=8&card_width=320&theme=gotham" />
-    </a> 
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Jinkogule&show_icons=true&theme=gotham"/>     
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jinkogule&layout=compact&langs_count=8&card_width=320&theme=gotham" />
 </div>
 
 ## Languages and Tools
@@ -180,7 +174,4 @@
   </tr>
 </table>
 
----
-
 <img src="https://raw.githubusercontent.com/Jinkogule/Jinkogule/output/snake.svg" alt="Snake animation" />
-
