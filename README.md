@@ -29,7 +29,11 @@
 
 - 💻 Programming since 2018
 
-<br><br>
+<br>
+
+---
+
+<br>
 
 <div align="left">
     <a href="https://github.com/Jinkogule">      
@@ -38,7 +42,10 @@
     </a> 
 </div>
 
-### Linguagens de Programação
+## Languages and Tools
+
+### Languages:
+
 <table>
   <tr>
     <th>PHP</th>
@@ -62,7 +69,8 @@
   </tr>
 </table>
 
-### Frameworks (Back-end)
+### Frameworks (Back-end):
+
 <table>
   <tr>
     <th>Laravel</th>
@@ -80,7 +88,8 @@
   </tr>
 </table>
 
-### Frameworks (Front-end)
+### Frameworks (Front-end):
+
 <table>
   <tr>
     <th>AngularJS</th>
@@ -96,7 +105,8 @@
   </tr>
 </table>
 
-### Plataformas de Hospedagem
+### Hosting Platforms:
+
 <table>
   <tr>
     <th>Heroku</th>
@@ -108,7 +118,8 @@
   </tr>
 </table>
 
-### Bancos de Dados
+### Databases:
+
 <table>
   <tr>
     <th>MySQL</th>
@@ -120,7 +131,7 @@
   </tr>
 </table>
 
-### Linguagens Web
+### Web Languages:
 
 <table>
   <tr>
@@ -133,7 +144,7 @@
   </tr>
 </table>
 
-### Ferramentas de Desenvolvimento
+### Development Tools:
 
 <table>
   <tr>
@@ -152,7 +163,7 @@
   </tr>
 </table>
 
-### Bibliotecas Python
+### Python Libraries:
 
 <table>
   <tr>
@@ -169,4 +180,7 @@
   </tr>
 </table>
 
+---
+
 <img src="https://raw.githubusercontent.com/Jinkogule/Jinkogule/output/snake.svg" alt="Snake animation" />
+
