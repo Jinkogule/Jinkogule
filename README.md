@@ -1,7 +1,7 @@
 
 
 <div align="center">
-<img style="" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" width="100%;" alt=""/>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" width="100%;" alt="Banner"/>
 <br>
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-pimenta-0663671b1/)
@@ -12,9 +12,9 @@
 
 <h2 align="left">Hi, I'm Lucas Pimenta👋</h2>
 
-<table style="width: 100%; border: none;">
+<table>
   <tr>
-    <td style="width: 70%; vertical-align: top;">
+    <td>
       <h3 align="left">About me:</h3>
       <ul>
         <li>🎓 Bachelor's Degree in Information Systems</li>
@@ -28,8 +28,8 @@
         <li>💻 Programming since 2018</li>
       </ul>
     </td>
-    <td style="width: 30%; vertical-align: top;">
-      <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9d0fd0c4-5c7f-4122-b884-64a1e1685d2d" width="240" style="max-width: 100%; border: none;" alt="Lucas Pimenta's GIF"/>
+    <td>
+      <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9d0fd0c4-5c7f-4122-b884-64a1e1685d2d" width="240" alt="GIF"/>
     </td>
   </tr>
 </table>
@@ -41,7 +41,7 @@
     <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jinkogule&layout=compact&langs_count=8&card_width=320&theme=gotham" />
 </div>
 
-<h2 align="left">Languages and Tools⚒️</h2>
+<h2 align="left">Languages and Tools🛠️</h2>
 
 <h3 align="left">Languages:</h3>
 
