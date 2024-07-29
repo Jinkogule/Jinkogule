@@ -36,10 +36,13 @@
 
 ---
 
-<div align="left">
+<div align="center">
     <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Jinkogule&show_icons=true&theme=gotham"/>     
     <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jinkogule&layout=compact&langs_count=8&card_width=320&theme=gotham" />
+    <img src="https://github-profile-trophy.vercel.app?username=Jinkogule&theme=onedark&column=6&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=false&order=4" height="129" alt="trophy graph" />
 </div>
+
+---
 
 <h2 align="left">Languages and Tools🛠️</h2>
 
